@@ -6,15 +6,23 @@ Gnap is an interface to Gnip's api. It has not been written yet. The following c
 
 <pre>
 <code>
+require 'gnap'
 gnap = Gnap.new("username", "password")
 
 # current activity for twitter
-gnap.publisher("twitter").activity
+gnap.publishers("twitter").activity
 
 # last five minutes
-gnap.publisher("twitter").activity(5.minutes.ago..Time.now)
+gnap.publishers("twitter").activity(5.minutes.ago..Time.now)
 
 # last hour
-gnap.publisher("twitter").activity(1.hour.ago..Time.now)
+gnap.publishers("twitter").activity(1.hour.ago..Time.now)
+
+# from a filter
+gnap.publishers("twitter").filters("bob").activity
+
+
+# create a new filter
+gnap.publishers("twitter").filters.new(:actor => "some actor rule text")
 </code>
 </pre>
