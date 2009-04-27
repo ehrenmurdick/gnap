@@ -1,6 +1,5 @@
 h1. Gnap
-
-<span style="position:relative; top: -28px; left: 13px;">_"nap"_</span>
+<sub>%{font-size:15px;font-weight:normal}/n&#230;p/%</sub>
 
 Gnap is an interface to Gnip's api. It has not been written yet. The following code is how I hope to make it work, and is subject to change.
 
