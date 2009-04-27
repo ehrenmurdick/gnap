@@ -1,0 +1,20 @@
+h1. Gnap
+
+<span style="position:relative; top: -28px; left: 13px;">_"nap"_</span>
+
+Gnap is an interface to Gnip's api. It has not been written yet. The following code is how I hope to make it work, and is subject to change.
+
+<pre>
+<code>
+gnap = Gnap.new("username", "password")
+
+# current activity for twitter
+gnap.publisher("twitter").activity
+
+# last five minutes
+gnap.publisher("twitter").activity(5.minutes.ago..Time.now)
+
+# last hour
+gnap.publisher("twitter").activity(1.hour.ago..Time.now)
+</code>
+</pre>
