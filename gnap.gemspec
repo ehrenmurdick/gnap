@@ -6,16 +6,19 @@ Gem::Specification.new do |s|
   s.files = Dir.glob("lib/**/*.rb")
   s.require_paths = ["lib"]
   s.summary = "Gnap is a interface to the Gnip api"
-  if s.respond_to? :specification_version then
+  if s.respond_to? :specification_version
     current_version = Gem::Specification::CURRENT_SPECIFICATION_VERSION
     s.specification_version = 2
 
-    if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0') then
+    if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0')
       s.add_runtime_dependency(%q<activesupport>, [">= 2.3.2"])
+      s.add_runtime_dependency(%q<builder>, [">= 2.1.2"])
     else
       s.add_dependency(%q<activesupport>, [">= 2.3.2"])
+      s.add_dependency(%q<builder>, [">= 2.1.2"])
     end
   else
     s.add_dependency(%q<activesupport>, [">= 2.3.2"])
+    s.add_dependency(%q<builder>, [">= 2.1.2"])
   end
 end
