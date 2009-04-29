@@ -20,6 +20,7 @@ module Gnap
       add_rules!({type => value})
     end
 
+
     def to_xml
       return unless @rules
       fullData = @rules.delete(:fullData)
@@ -44,6 +45,7 @@ module Gnap
     end
 
     private
+
     def rules_to_xml doc, rules
       rules.keys.each do |key|
         [rules[key]].flatten.each do |value|

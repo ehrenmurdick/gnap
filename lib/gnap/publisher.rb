@@ -9,8 +9,9 @@ module Gnap
       super config
     end
 
-    def notification(time = "current")
-      get(build_notification_path(time))
+    def notifications(time = "current")
+      path = build_notification_path(time)
+      get(path)
     end
 
     def filter name

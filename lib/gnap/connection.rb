@@ -1,15 +1,17 @@
 module Gnap
   class Connection
     include Net
+    ApiUrl = "api-v21.gnip.com"
 
     attr_writer :publisher
 
     def initialize config
       config = config.symbolize_keys
-      def config.inspect; "*SNIP*"; end
-      @http = HTTP.new(config[:uri] || "api-v21.gnip.com", 443)
+      @http = HTTP.new(ApiUrl, 443)
       @http.use_ssl = true
       @config = config
+      def @config.to_s; "*SNIP*"; end
+      def @config.inspect; "*SNIP*"; end
     end
 
     def publisher name

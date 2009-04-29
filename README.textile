@@ -8,20 +8,27 @@ Gnap is an interface to Gnip's api. It has not been written yet. The following c
 require 'gnap'
 gnap = Gnap.new("username", "password")
 
-# current activity for twitter
-gnap.publishers("twitter").activity
+# current notifications stream for twitter
+gnap.publishers("twitter").notifications
 
-# last five minutes
-gnap.publishers("twitter").activity(5.minutes.ago..Time.now)
-
-# last hour
-gnap.publishers("twitter").activity(1.hour.ago..Time.now)
+# five minutes ago
+gnap.publishers("twitter").notifications(5.minutes.ago)
 
 # from a filter
-gnap.publishers("twitter").filters("bob").activity
+gnap.publishers("twitter").filter("bobs_rule").notifications(5.minutes.ago)
+
+# gnip doesn't appear to me to support time ranges, so I don't.
+# one call to notifications == one request!
 
 
 # create a new filter
-gnap.publishers("twitter").filters.new(:actor => "some actor rule text")
+gnap.publishers("twitter").create_filter!("bobs_rule", :actor => "some actor rule text")
+
+# add a rule
+gnap.publishers("twitter").filter("bobs_rule").add_rule!("actor", "bob")
+
+# add several rules
+gnap.publishers("twitter").filter("bobs_rule").add_rules!({"actor" => ["bob", "steve", "alan", "and so on"])
+
 </code>
 </pre>
