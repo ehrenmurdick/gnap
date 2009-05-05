@@ -11,7 +11,7 @@ module Gnap
 
     def notifications(time = "current")
       path = build_notification_path(time)
-      get(path)
+      NotificationBucket.new(get(path))
     end
 
     def filter name

@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<activities publisher='twitter'>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772531</activityID>
+    <URL>http://twitter.com/statuses/show/1706772531.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>HUNGARY</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/mp33portal' uid='21692311'>mp33portal</actor>
+    <destinationURL>http://twitter.com/mp33portal/status/1706772531</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:12.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771613</activityID>
+    <URL>http://twitter.com/statuses/show/1706771613.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Germany</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/newsmax' uid='17973313'>newsmax</actor>
+    <destinationURL>http://twitter.com/newsmax/status/1706771613</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:12.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771632</activityID>
+    <URL>http://twitter.com/statuses/show/1706771632.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Merrily flowing downstream...o</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/debsoul' uid='18530610'>debsoul</actor>
+    <destinationURL>http://twitter.com/debsoul/status/1706771632</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:12.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771608</activityID>
+    <URL>http://twitter.com/statuses/show/1706771608.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Toronto</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/fuckimtwitting' uid='33980619'>fuckimtwitting</actor>
+    <destinationURL>http://twitter.com/fuckimtwitting/status/1706771608</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771195</activityID>
+    <URL>http://twitter.com/statuses/show/1706771195.xml</URL>
+    <source>mobile web</source>
+    <actor metaURL='http://twitter.com/angela704' uid='37720945'>angela704</actor>
+    <destinationURL>http://twitter.com/angela704/status/1706771195</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768511</activityID>
+    <URL>http://twitter.com/statuses/show/1706768511.xml</URL>
+    <source>TwitterFon</source>
+    <actor metaURL='http://twitter.com/cookiegirl123' uid='16393332'>cookiegirl123</actor>
+    <destinationURL>http://twitter.com/cookiegirl123/status/1706768511</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:13.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771676</activityID>
+    <URL>http://twitter.com/statuses/show/1706771676.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>São Paulo</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/lbertozzi' uid='37929603'>lbertozzi</actor>
+    <destinationURL>http://twitter.com/lbertozzi/status/1706771676</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:08.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770963</activityID>
+    <URL>http://twitter.com/statuses/show/1706770963.xml</URL>
+    <source>TwitterFon</source>
+    <place>
+      <featurename>GLOBAL</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/CHEWCEO' uid='34116782'>CHEWCEO</actor>
+    <destinationURL>http://twitter.com/CHEWCEO/status/1706770963</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:12.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771624</activityID>
+    <URL>http://twitter.com/statuses/show/1706771624.xml</URL>
+    <source>twhirl</source>
+    <place>
+      <featurename>Austin, TX</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/erikwagner' uid='14127279'>erikwagner</actor>
+    <destinationURL>http://twitter.com/erikwagner/status/1706771624</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:08.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770974</activityID>
+    <URL>http://twitter.com/statuses/show/1706770974.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Toronto, Canada</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/immuneprotect' uid='37626804'>immuneprotect</actor>
+    <destinationURL>http://twitter.com/immuneprotect/status/1706770974</destinationURL>
+    <to metaURL='http://twitter.com/Baitlynsays'>Baitlynsays</to>
+    <regardingURL>http://twitter.com/Baitlynsays/status/1706726461</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:17.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772433</activityID>
+    <URL>http://twitter.com/statuses/show/1706772433.xml</URL>
+    <source>TwitterFox</source>
+    <place>
+      <featurename>Rochester, NY</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/murphcore9' uid='22938175'>murphcore9</actor>
+    <destinationURL>http://twitter.com/murphcore9/status/1706772433</destinationURL>
+    <to metaURL='http://twitter.com/pierredup'>pierredup</to>
+    <regardingURL>http://twitter.com/pierredup/status/1706732041</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771193</activityID>
+    <URL>http://twitter.com/statuses/show/1706771193.xml</URL>
+    <source>TwitterBerry</source>
+    <place>
+      <featurename>WP, NJ</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/vivaaeldude' uid='23195708'>vivaaeldude</actor>
+    <destinationURL>http://twitter.com/vivaaeldude/status/1706771193</destinationURL>
+    <to metaURL='http://twitter.com/Roqqzz'>Roqqzz</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771268</activityID>
+    <URL>http://twitter.com/statuses/show/1706771268.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Santa Fe Nm</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/aaronsellssf' uid='18119039'>aaronsellssf</actor>
+    <destinationURL>http://twitter.com/aaronsellssf/status/1706771268</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771143</activityID>
+    <URL>http://twitter.com/statuses/show/1706771143.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>New York, NY</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/BestFinance' uid='20648923'>BestFinance</actor>
+    <destinationURL>http://twitter.com/BestFinance/status/1706771143</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770234</activityID>
+    <URL>http://twitter.com/statuses/show/1706770234.xml</URL>
+    <source>TwitterFon</source>
+    <place>
+      <featurename>New Orleans</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/meeraondawall' uid='23486637'>meeraondawall</actor>
+    <destinationURL>http://twitter.com/meeraondawall/status/1706770234</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:20.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772870</activityID>
+    <URL>http://twitter.com/statuses/show/1706772870.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>McLean, Va.</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/ondeadline' uid='7512602'>ondeadline</actor>
+    <destinationURL>http://twitter.com/ondeadline/status/1706772870</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:03.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770146</activityID>
+    <URL>http://twitter.com/statuses/show/1706770146.xml</URL>
+    <source>Tweetie</source>
+    <place>
+      <featurename>United States</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Sidthekid45' uid='33430243'>Sidthekid45</actor>
+    <destinationURL>http://twitter.com/Sidthekid45/status/1706770146</destinationURL>
+    <to metaURL='http://twitter.com/H20LEGACY'>H20LEGACY</to>
+    <regardingURL>http://twitter.com/H20LEGACY/status/1706732258</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:20.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772879</activityID>
+    <URL>http://twitter.com/statuses/show/1706772879.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/adam_be_here' uid='16432160'>adam_be_here</actor>
+    <destinationURL>http://twitter.com/adam_be_here/status/1706772879</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770237</activityID>
+    <URL>http://twitter.com/statuses/show/1706770237.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Arlington Texas</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/ShutterBugMomma' uid='35456972'>ShutterBugMomma</actor>
+    <destinationURL>http://twitter.com/ShutterBugMomma/status/1706770237</destinationURL>
+    <to metaURL='http://twitter.com/kirstiealley'>kirstiealley</to>
+    <regardingURL>http://twitter.com/kirstiealley/status/1706751573</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:21.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772952</activityID>
+    <URL>http://twitter.com/statuses/show/1706772952.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Maryland</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/thewinecoach' uid='17388453'>thewinecoach</actor>
+    <destinationURL>http://twitter.com/thewinecoach/status/1706772952</destinationURL>
+    <to metaURL='http://twitter.com/newstterguru'>newstterguru</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770224</activityID>
+    <URL>http://twitter.com/statuses/show/1706770224.xml</URL>
+    <source>Tweetie</source>
+    <place>
+      <featurename>Viladecans, Barcelona.</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Nunus7' uid='14068463'>Nunus7</actor>
+    <destinationURL>http://twitter.com/Nunus7/status/1706770224</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771270</activityID>
+    <URL>http://twitter.com/statuses/show/1706771270.xml</URL>
+    <source>Netvibes</source>
+    <actor metaURL='http://twitter.com/Halloacademie' uid='20274003'>Halloacademie</actor>
+    <destinationURL>http://twitter.com/Halloacademie/status/1706771270</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771160</activityID>
+    <URL>http://twitter.com/statuses/show/1706771160.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/TranceDI' uid='34371955'>TranceDI</actor>
+    <destinationURL>http://twitter.com/TranceDI/status/1706771160</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770269</activityID>
+    <URL>http://twitter.com/statuses/show/1706770269.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/zvelez22' uid='37934855'>zvelez22</actor>
+    <destinationURL>http://twitter.com/zvelez22/status/1706770269</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:05.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770460</activityID>
+    <URL>http://twitter.com/statuses/show/1706770460.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/Anistream' uid='29429176'>Anistream</actor>
+    <destinationURL>http://twitter.com/Anistream/status/1706770460</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:17.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772389</activityID>
+    <URL>http://twitter.com/statuses/show/1706772389.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Los Angeles</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/anabelainla' uid='16114943'>anabelainla</actor>
+    <destinationURL>http://twitter.com/anabelainla/status/1706772389</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:20.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772852</activityID>
+    <URL>http://twitter.com/statuses/show/1706772852.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Ottawa, Canada</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/jovanevery' uid='28234994'>jovanevery</actor>
+    <destinationURL>http://twitter.com/jovanevery/status/1706772852</destinationURL>
+    <to metaURL='http://twitter.com/dragonsnflwrbed'>dragonsnflwrbed</to>
+    <regardingURL>http://twitter.com/dragonsnflwrbed/status/1706704217</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:21.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772939</activityID>
+    <URL>http://twitter.com/statuses/show/1706772939.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/loveoutcast' uid='19204915'>loveoutcast</actor>
+    <destinationURL>http://twitter.com/loveoutcast/status/1706772939</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:14.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771894</activityID>
+    <URL>http://twitter.com/statuses/show/1706771894.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>São Paulo - SP</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/FabianeAbel' uid='19901792'>FabianeAbel</actor>
+    <destinationURL>http://twitter.com/FabianeAbel/status/1706771894</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772046</activityID>
+    <URL>http://twitter.com/statuses/show/1706772046.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>London</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Zoshie' uid='23048630'>Zoshie</actor>
+    <destinationURL>http://twitter.com/Zoshie/status/1706772046</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:21.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772987</activityID>
+    <URL>http://twitter.com/statuses/show/1706772987.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Beautiful New Jersey</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Yuricon' uid='14413894'>Yuricon</actor>
+    <destinationURL>http://twitter.com/Yuricon/status/1706772987</destinationURL>
+    <to metaURL='http://twitter.com/scottfrye'>scottfrye</to>
+    <regardingURL>http://twitter.com/scottfrye/status/1706768236</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:20.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772917</activityID>
+    <URL>http://twitter.com/statuses/show/1706772917.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>N of Dunedin, S of Tromso</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/MikeSnos' uid='23621284'>MikeSnos</actor>
+    <destinationURL>http://twitter.com/MikeSnos/status/1706772917</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:17.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772402</activityID>
+    <URL>http://twitter.com/statuses/show/1706772402.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Sapulpa, OK</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/FrugallyYours' uid='21780706'>FrugallyYours</actor>
+    <destinationURL>http://twitter.com/FrugallyYours/status/1706772402</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772510</activityID>
+    <URL>http://twitter.com/statuses/show/1706772510.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Idaho</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/MyDailyMadness' uid='16058238'>MyDailyMadness</actor>
+    <destinationURL>http://twitter.com/MyDailyMadness/status/1706772510</destinationURL>
+    <to metaURL='http://twitter.com/barefoot_exec'>barefoot_exec</to>
+    <regardingURL>http://twitter.com/barefoot_exec/status/1706735078</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:46.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767650</activityID>
+    <URL>http://twitter.com/statuses/show/1706767650.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/saradan2006' uid='37675855'>saradan2006</actor>
+    <destinationURL>http://twitter.com/saradan2006/status/1706767650</destinationURL>
+    <to metaURL='http://twitter.com/mileycyrus'>mileycyrus</to>
+    <regardingURL>http://twitter.com/mileycyrus/status/1706622217</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772527</activityID>
+    <URL>http://twitter.com/statuses/show/1706772527.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Berlin, Germany</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/ullahe' uid='14600055'>ullahe</actor>
+    <destinationURL>http://twitter.com/ullahe/status/1706772527</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:46.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767705</activityID>
+    <URL>http://twitter.com/statuses/show/1706767705.xml</URL>
+    <source>TwitterFon</source>
+    <place>
+      <featurename>Kansas City</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/ashleywilliams' uid='14425121'>ashleywilliams</actor>
+    <destinationURL>http://twitter.com/ashleywilliams/status/1706767705</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767712</activityID>
+    <URL>http://twitter.com/statuses/show/1706767712.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/mettebolding' uid='29710214'>mettebolding</actor>
+    <destinationURL>http://twitter.com/mettebolding/status/1706767712</destinationURL>
+    <to metaURL='http://twitter.com/dougiemcfly'>dougiemcfly</to>
+    <regardingURL>http://twitter.com/dougiemcfly/status/1706548671</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:17.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772397</activityID>
+    <URL>http://twitter.com/statuses/show/1706772397.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Laughlin, NV</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/CentavoNV' uid='37718172'>CentavoNV</actor>
+    <destinationURL>http://twitter.com/CentavoNV/status/1706772397</destinationURL>
+    <to metaURL='http://twitter.com/MSArt'>MSArt</to>
+    <regardingURL>http://twitter.com/MSArt/status/1706710394</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772464</activityID>
+    <URL>http://twitter.com/statuses/show/1706772464.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/epaulf' uid='37660271'>epaulf</actor>
+    <destinationURL>http://twitter.com/epaulf/status/1706772464</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:17.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772403</activityID>
+    <URL>http://twitter.com/statuses/show/1706772403.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Cambridge, UK</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/mollylaurel' uid='20095475'>mollylaurel</actor>
+    <destinationURL>http://twitter.com/mollylaurel/status/1706772403</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:57.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769212</activityID>
+    <URL>http://twitter.com/statuses/show/1706769212.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Jax</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/abreathsocold' uid='32664416'>abreathsocold</actor>
+    <destinationURL>http://twitter.com/abreathsocold/status/1706769212</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:41.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820368</activityID>
+    <URL>http://twitter.com/statuses/show/1706820368.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>UK</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/immattwilliams' uid='24978174'>immattwilliams</actor>
+    <destinationURL>http://twitter.com/immattwilliams/status/1706820368</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771166</activityID>
+    <URL>http://twitter.com/statuses/show/1706771166.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>College Park, MD</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/faerielissa' uid='15202113'>faerielissa</actor>
+    <destinationURL>http://twitter.com/faerielissa/status/1706771166</destinationURL>
+    <to metaURL='http://twitter.com/laname'>laname</to>
+    <regardingURL>http://twitter.com/laname/status/1706577821</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:08.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770985</activityID>
+    <URL>http://twitter.com/statuses/show/1706770985.xml</URL>
+    <source>Tweetie</source>
+    <place>
+      <featurename>Philly, USA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/kwerb' uid='817970'>kwerb</actor>
+    <destinationURL>http://twitter.com/kwerb/status/1706770985</destinationURL>
+    <to metaURL='http://twitter.com/HelenWalters'>HelenWalters</to>
+    <regardingURL>http://twitter.com/HelenWalters/status/1706426816</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769024</activityID>
+    <URL>http://twitter.com/statuses/show/1706769024.xml</URL>
+    <source>TwitterFon</source>
+    <place>
+      <featurename>iPhone: 49.897751,-97.177391</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/gk1376' uid='19845705'>gk1376</actor>
+    <destinationURL>http://twitter.com/gk1376/status/1706769024</destinationURL>
+    <to metaURL='http://twitter.com/thomasdurden'>thomasdurden</to>
+    <regardingURL>http://twitter.com/thomasdurden/status/1706755873</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769034</activityID>
+    <URL>http://twitter.com/statuses/show/1706769034.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/gabriela_leite' uid='37792764'>gabriela_leite</actor>
+    <destinationURL>http://twitter.com/gabriela_leite/status/1706769034</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769010</activityID>
+    <URL>http://twitter.com/statuses/show/1706769010.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Ohio, USA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/worldtweeter' uid='18049232'>worldtweeter</actor>
+    <destinationURL>http://twitter.com/worldtweeter/status/1706769010</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:57.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769270</activityID>
+    <URL>http://twitter.com/statuses/show/1706769270.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Cincinnati, Covington, KY</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Brad_King' uid='1176551'>Brad_King</actor>
+    <destinationURL>http://twitter.com/Brad_King/status/1706769270</destinationURL>
+    <to metaURL='http://twitter.com/veganjacob'>veganjacob</to>
+    <regardingURL>http://twitter.com/veganjacob/status/1706723267</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771207</activityID>
+    <URL>http://twitter.com/statuses/show/1706771207.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Brighton UK</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/lewisisalegend' uid='20592908'>lewisisalegend</actor>
+    <destinationURL>http://twitter.com/lewisisalegend/status/1706771207</destinationURL>
+    <to metaURL='http://twitter.com/SteveBoon'>SteveBoon</to>
+    <regardingURL>http://twitter.com/SteveBoon/status/1706749692</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:57.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769268</activityID>
+    <URL>http://twitter.com/statuses/show/1706769268.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Teh Interwebs in Ukraine</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/scifigal' uid='15104946'>scifigal</actor>
+    <destinationURL>http://twitter.com/scifigal/status/1706769268</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771203</activityID>
+    <URL>http://twitter.com/statuses/show/1706771203.xml</URL>
+    <source>Netvibes</source>
+    <actor metaURL='http://twitter.com/zebov' uid='21101761'>zebov</actor>
+    <destinationURL>http://twitter.com/zebov/status/1706771203</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:57.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769247</activityID>
+    <URL>http://twitter.com/statuses/show/1706769247.xml</URL>
+    <source>PingVine</source>
+    <place>
+      <featurename>Cincinnati, OH</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Go_Bengals' uid='20798677'>Go_Bengals</actor>
+    <destinationURL>http://twitter.com/Go_Bengals/status/1706769247</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771214</activityID>
+    <URL>http://twitter.com/statuses/show/1706771214.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Philly</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Hyperlynx_' uid='36172023'>Hyperlynx_</actor>
+    <destinationURL>http://twitter.com/Hyperlynx_/status/1706771214</destinationURL>
+    <to metaURL='http://twitter.com/SunKissd'>SunKissd</to>
+    <regardingURL>http://twitter.com/SunKissd/status/1704397280</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771100</activityID>
+    <URL>http://twitter.com/statuses/show/1706771100.xml</URL>
+    <source>Ping.fm</source>
+    <actor metaURL='http://twitter.com/tomfindlay1976' uid='32862830'>tomfindlay1976</actor>
+    <destinationURL>http://twitter.com/tomfindlay1976/status/1706771100</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769056</activityID>
+    <URL>http://twitter.com/statuses/show/1706769056.xml</URL>
+    <source>txt</source>
+    <place>
+      <featurename>Harlem, NY</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/TYQUANSOUNDS' uid='23475171'>TYQUANSOUNDS</actor>
+    <destinationURL>http://twitter.com/TYQUANSOUNDS/status/1706769056</destinationURL>
+    <to metaURL='http://twitter.com/eriklondon3'>eriklondon3</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771279</activityID>
+    <URL>http://twitter.com/statuses/show/1706771279.xml</URL>
+    <source>TwitterFox</source>
+    <actor metaURL='http://twitter.com/takusia' uid='21249947'>takusia</actor>
+    <destinationURL>http://twitter.com/takusia/status/1706771279</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:57.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769267</activityID>
+    <URL>http://twitter.com/statuses/show/1706769267.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Lima, Perú</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/spencerlandia' uid='17940971'>spencerlandia</actor>
+    <destinationURL>http://twitter.com/spencerlandia/status/1706769267</destinationURL>
+    <to metaURL='http://twitter.com/AerynStorm'>AerynStorm</to>
+    <regardingURL>http://twitter.com/AerynStorm/status/1706676374</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772073</activityID>
+    <URL>http://twitter.com/statuses/show/1706772073.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>United States</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/workinguy' uid='16339141'>workinguy</actor>
+    <destinationURL>http://twitter.com/workinguy/status/1706772073</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:14.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771911</activityID>
+    <URL>http://twitter.com/statuses/show/1706771911.xml</URL>
+    <source>TwitterFox</source>
+    <place>
+      <featurename>Hamburg</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/UARRR' uid='5605712'>UARRR</actor>
+    <destinationURL>http://twitter.com/UARRR/status/1706771911</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770593</activityID>
+    <URL>http://twitter.com/statuses/show/1706770593.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/harryramp' uid='37941370'>harryramp</actor>
+    <destinationURL>http://twitter.com/harryramp/status/1706770593</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771251</activityID>
+    <URL>http://twitter.com/statuses/show/1706771251.xml</URL>
+    <source>Tumblr</source>
+    <place>
+      <featurename>Chicago</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/harleysaur' uid='16560793'>harleysaur</actor>
+    <destinationURL>http://twitter.com/harleysaur/status/1706771251</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:13.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771780</activityID>
+    <URL>http://twitter.com/statuses/show/1706771780.xml</URL>
+    <source>Tween</source>
+    <place>
+      <featurename>大阪府大阪市</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/misasaguy' uid='17156578'>misasaguy</actor>
+    <destinationURL>http://twitter.com/misasaguy/status/1706771780</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771121</activityID>
+    <URL>http://twitter.com/statuses/show/1706771121.xml</URL>
+    <source>UberTwitter</source>
+    <place>
+      <featurename>Brooklyn Nyc..</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/JaccSparrow' uid='20022886'>JaccSparrow</actor>
+    <destinationURL>http://twitter.com/JaccSparrow/status/1706771121</destinationURL>
+    <to metaURL='http://twitter.com/Kiki115'>Kiki115</to>
+    <regardingURL>http://twitter.com/Kiki115/status/1706341521</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769058</activityID>
+    <URL>http://twitter.com/statuses/show/1706769058.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>感動の渦の真っ只中だよ</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/kinzou' uid='17026324'>kinzou</actor>
+    <destinationURL>http://twitter.com/kinzou/status/1706769058</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771287</activityID>
+    <URL>http://twitter.com/statuses/show/1706771287.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Orlando, Florida</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/recruitccci' uid='16672341'>recruitccci</actor>
+    <destinationURL>http://twitter.com/recruitccci/status/1706771287</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:13.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771707</activityID>
+    <URL>http://twitter.com/statuses/show/1706771707.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Baton Rouge, LA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Fingertipnews' uid='23996298'>Fingertipnews</actor>
+    <destinationURL>http://twitter.com/Fingertipnews/status/1706771707</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767833</activityID>
+    <URL>http://twitter.com/statuses/show/1706767833.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Chicago</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/polishmuseum' uid='36710791'>polishmuseum</actor>
+    <destinationURL>http://twitter.com/polishmuseum/status/1706767833</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:41.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820432</activityID>
+    <URL>http://twitter.com/statuses/show/1706820432.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/sherribabybully' uid='37939966'>sherribabybully</actor>
+    <destinationURL>http://twitter.com/sherribabybully/status/1706820432</destinationURL>
+    <regardingURL>http://twitter.com//status/1706761950</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:57.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769244</activityID>
+    <URL>http://twitter.com/statuses/show/1706769244.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>San Diego, CA </featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Raquel_A' uid='21967393'>Raquel_A</actor>
+    <destinationURL>http://twitter.com/Raquel_A/status/1706769244</destinationURL>
+    <to metaURL='http://twitter.com/sondramoe'>sondramoe</to>
+    <regardingURL>http://twitter.com/sondramoe/status/1706759809</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:57.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769271</activityID>
+    <URL>http://twitter.com/statuses/show/1706769271.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Newcastle, Australia</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/zuppalizzle' uid='23677280'>zuppalizzle</actor>
+    <destinationURL>http://twitter.com/zuppalizzle/status/1706769271</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:14.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771856</activityID>
+    <URL>http://twitter.com/statuses/show/1706771856.xml</URL>
+    <source>twhirl</source>
+    <place>
+      <featurename>Birmingham, UK</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/steve_nicholls' uid='15309509'>steve_nicholls</actor>
+    <destinationURL>http://twitter.com/steve_nicholls/status/1706771856</destinationURL>
+    <to metaURL='http://twitter.com/cybrum'>cybrum</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770516</activityID>
+    <URL>http://twitter.com/statuses/show/1706770516.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Paris</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/leshumains' uid='7212672'>leshumains</actor>
+    <destinationURL>http://twitter.com/leshumains/status/1706770516</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770610</activityID>
+    <URL>http://twitter.com/statuses/show/1706770610.xml</URL>
+    <source>TwitterFox</source>
+    <place>
+      <featurename>Portland, OR</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/AGSHender' uid='3643601'>AGSHender</actor>
+    <destinationURL>http://twitter.com/AGSHender/status/1706770610</destinationURL>
+    <to metaURL='http://twitter.com/trent_reznor'>trent_reznor</to>
+    <regardingURL>http://twitter.com/trent_reznor/status/1706683206</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770527</activityID>
+    <URL>http://twitter.com/statuses/show/1706770527.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>WirkZentrum &amp; AtLarge</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/rainer' uid='11584'>rainer</actor>
+    <destinationURL>http://twitter.com/rainer/status/1706770527</destinationURL>
+    <to metaURL='http://twitter.com/cascio'>cascio</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767993</activityID>
+    <URL>http://twitter.com/statuses/show/1706767993.xml</URL>
+    <source>mobile web</source>
+    <place>
+      <featurename>the great BK</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/prettyqueenie' uid='29137189'>prettyqueenie</actor>
+    <destinationURL>http://twitter.com/prettyqueenie/status/1706767993</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:46.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767701</activityID>
+    <URL>http://twitter.com/statuses/show/1706767701.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/a_steroids' uid='15273956'>a_steroids</actor>
+    <destinationURL>http://twitter.com/a_steroids/status/1706767701</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767726</activityID>
+    <URL>http://twitter.com/statuses/show/1706767726.xml</URL>
+    <source>blogg.no</source>
+    <actor metaURL='http://twitter.com/emiiiiilie' uid='29694506'>emiiiiilie</actor>
+    <destinationURL>http://twitter.com/emiiiiilie/status/1706767726</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769074</activityID>
+    <URL>http://twitter.com/statuses/show/1706769074.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Lugano, Switzerland</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/jenniferwyng' uid='5394052'>jenniferwyng</actor>
+    <destinationURL>http://twitter.com/jenniferwyng/status/1706769074</destinationURL>
+    <to metaURL='http://twitter.com/platea'>platea</to>
+    <regardingURL>http://twitter.com/platea/status/1706757217</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771323</activityID>
+    <URL>http://twitter.com/statuses/show/1706771323.xml</URL>
+    <source>foxytunes</source>
+    <place>
+      <featurename>Wichita, KS</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/erawson' uid='14512332'>erawson</actor>
+    <destinationURL>http://twitter.com/erawson/status/1706771323</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769055</activityID>
+    <URL>http://twitter.com/statuses/show/1706769055.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Detroit, MI</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/lionsbuzztap' uid='21842001'>lionsbuzztap</actor>
+    <destinationURL>http://twitter.com/lionsbuzztap/status/1706769055</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:14.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771938</activityID>
+    <URL>http://twitter.com/statuses/show/1706771938.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Central Coast</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/thekillfix' uid='12515632'>thekillfix</actor>
+    <destinationURL>http://twitter.com/thekillfix/status/1706771938</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767988</activityID>
+    <URL>http://twitter.com/statuses/show/1706767988.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Fort Worth, Texas</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/hiremax' uid='34041061'>hiremax</actor>
+    <destinationURL>http://twitter.com/hiremax/status/1706767988</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769049</activityID>
+    <URL>http://twitter.com/statuses/show/1706769049.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>California</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Prismtrail' uid='17238882'>Prismtrail</actor>
+    <destinationURL>http://twitter.com/Prismtrail/status/1706769049</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767722</activityID>
+    <URL>http://twitter.com/statuses/show/1706767722.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Norwalk, CT, USA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/tmcnet' uid='6681712'>tmcnet</actor>
+    <destinationURL>http://twitter.com/tmcnet/status/1706767722</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767902</activityID>
+    <URL>http://twitter.com/statuses/show/1706767902.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Chatt Town</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/ktrock167' uid='20243558'>ktrock167</actor>
+    <destinationURL>http://twitter.com/ktrock167/status/1706767902</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769065</activityID>
+    <URL>http://twitter.com/statuses/show/1706769065.xml</URL>
+    <source>twitterfeed</source>
+    <actor metaURL='http://twitter.com/hhealth' uid='37694912'>hhealth</actor>
+    <destinationURL>http://twitter.com/hhealth/status/1706769065</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:42.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820447</activityID>
+    <URL>http://twitter.com/statuses/show/1706820447.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Cincinnati, Ohio</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Onlocationvideo' uid='19196892'>Onlocationvideo</actor>
+    <destinationURL>http://twitter.com/Onlocationvideo/status/1706820447</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:49.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768014</activityID>
+    <URL>http://twitter.com/statuses/show/1706768014.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Lisbon</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Dormauz' uid='22431030'>Dormauz</actor>
+    <destinationURL>http://twitter.com/Dormauz/status/1706768014</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769089</activityID>
+    <URL>http://twitter.com/statuses/show/1706769089.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/Jazzy126' uid='35974511'>Jazzy126</actor>
+    <destinationURL>http://twitter.com/Jazzy126/status/1706769089</destinationURL>
+    <to metaURL='http://twitter.com/lamborghinibow'>lamborghinibow</to>
+    <regardingURL>http://twitter.com/lamborghinibow/status/1705076016</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:05.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770354</activityID>
+    <URL>http://twitter.com/statuses/show/1706770354.xml</URL>
+    <source>txt</source>
+    <place>
+      <featurename>Missouri</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/jordeno89' uid='15526695'>jordeno89</actor>
+    <destinationURL>http://twitter.com/jordeno89/status/1706770354</destinationURL>
+    <to metaURL='http://twitter.com/sharon117'>sharon117</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770563</activityID>
+    <URL>http://twitter.com/statuses/show/1706770563.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Rio de Janeiro / Brazil</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/luizbranco' uid='11205002'>luizbranco</actor>
+    <destinationURL>http://twitter.com/luizbranco/status/1706770563</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771072</activityID>
+    <URL>http://twitter.com/statuses/show/1706771072.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/frankannie' uid='30350428'>frankannie</actor>
+    <destinationURL>http://twitter.com/frankannie/status/1706771072</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770512</activityID>
+    <URL>http://twitter.com/statuses/show/1706770512.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>New York</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/glassesshop' uid='23408270'>glassesshop</actor>
+    <destinationURL>http://twitter.com/glassesshop/status/1706770512</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772054</activityID>
+    <URL>http://twitter.com/statuses/show/1706772054.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Menlo Park, CA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/VentureOutlook' uid='23101838'>VentureOutlook</actor>
+    <destinationURL>http://twitter.com/VentureOutlook/status/1706772054</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767749</activityID>
+    <URL>http://twitter.com/statuses/show/1706767749.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Mobile, AL</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/PressRegister' uid='36406095'>PressRegister</actor>
+    <destinationURL>http://twitter.com/PressRegister/status/1706767749</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772094</activityID>
+    <URL>http://twitter.com/statuses/show/1706772094.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Sapulpa, OK</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/FrugallyYours' uid='21780706'>FrugallyYours</actor>
+    <destinationURL>http://twitter.com/FrugallyYours/status/1706772094</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770575</activityID>
+    <URL>http://twitter.com/statuses/show/1706770575.xml</URL>
+    <source>txt</source>
+    <place>
+      <featurename>TN</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/fajrt68' uid='19813138'>fajrt68</actor>
+    <destinationURL>http://twitter.com/fajrt68/status/1706770575</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770523</activityID>
+    <URL>http://twitter.com/statuses/show/1706770523.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Armpit of America</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/P2DaG' uid='23274752'>P2DaG</actor>
+    <destinationURL>http://twitter.com/P2DaG/status/1706770523</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767956</activityID>
+    <URL>http://twitter.com/statuses/show/1706767956.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Ohio, USA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/chocolatetweet' uid='17954390'>chocolatetweet</actor>
+    <destinationURL>http://twitter.com/chocolatetweet/status/1706767956</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772542</activityID>
+    <URL>http://twitter.com/statuses/show/1706772542.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Toronto</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/tofireN' uid='18409843'>tofireN</actor>
+    <destinationURL>http://twitter.com/tofireN/status/1706772542</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769100</activityID>
+    <URL>http://twitter.com/statuses/show/1706769100.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Curitiba - Paraná - Brazil</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/kew_pie' uid='34811103'>kew_pie</actor>
+    <destinationURL>http://twitter.com/kew_pie/status/1706769100</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769096</activityID>
+    <URL>http://twitter.com/statuses/show/1706769096.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Londrina-pr</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/drjaum' uid='34095027'>drjaum</actor>
+    <destinationURL>http://twitter.com/drjaum/status/1706769096</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772473</activityID>
+    <URL>http://twitter.com/statuses/show/1706772473.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Troy, NY</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/KevinMarshall' uid='17968903'>KevinMarshall</actor>
+    <destinationURL>http://twitter.com/KevinMarshall/status/1706772473</destinationURL>
+    <to metaURL='http://twitter.com/brianzimmel'>brianzimmel</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770674</activityID>
+    <URL>http://twitter.com/statuses/show/1706770674.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>in your dreams....</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/a_dash_a_luv' uid='28072328'>a_dash_a_luv</actor>
+    <destinationURL>http://twitter.com/a_dash_a_luv/status/1706770674</destinationURL>
+    <to metaURL='http://twitter.com/leeka_lock'>leeka_lock</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772577</activityID>
+    <URL>http://twitter.com/statuses/show/1706772577.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Richmond, VA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/realrichmond' uid='27014902'>realrichmond</actor>
+    <destinationURL>http://twitter.com/realrichmond/status/1706772577</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:14.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771891</activityID>
+    <URL>http://twitter.com/statuses/show/1706771891.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Columbus, OH</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Ohioana' uid='27935464'>Ohioana</actor>
+    <destinationURL>http://twitter.com/Ohioana/status/1706771891</destinationURL>
+    <to metaURL='http://twitter.com/scalzi'>scalzi</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768000</activityID>
+    <URL>http://twitter.com/statuses/show/1706768000.xml</URL>
+    <source>Tweetie</source>
+    <place>
+      <featurename>Seattle</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/aalgar' uid='14168062'>aalgar</actor>
+    <destinationURL>http://twitter.com/aalgar/status/1706768000</destinationURL>
+    <to metaURL='http://twitter.com/scottziolko'>scottziolko</to>
+    <regardingURL>http://twitter.com/scottziolko/status/1706755472</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772509</activityID>
+    <URL>http://twitter.com/statuses/show/1706772509.xml</URL>
+    <source>Twitter Tools</source>
+    <actor metaURL='http://twitter.com/Techeroid' uid='32177109'>Techeroid</actor>
+    <destinationURL>http://twitter.com/Techeroid/status/1706772509</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767880</activityID>
+    <URL>http://twitter.com/statuses/show/1706767880.xml</URL>
+    <source>twitterrific</source>
+    <place>
+      <featurename>Boston</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Adstretch' uid='27426782'>Adstretch</actor>
+    <destinationURL>http://twitter.com/Adstretch/status/1706767880</destinationURL>
+    <to metaURL='http://twitter.com/Stuey1214'>Stuey1214</to>
+    <regardingURL>http://twitter.com/Stuey1214/status/1706563298</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770607</activityID>
+    <URL>http://twitter.com/statuses/show/1706770607.xml</URL>
+    <source>twitterrific</source>
+    <place>
+      <featurename>Paris</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Nomalz' uid='9362632'>Nomalz</actor>
+    <destinationURL>http://twitter.com/Nomalz/status/1706770607</destinationURL>
+    <to metaURL='http://twitter.com/RemiB'>RemiB</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:49.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768029</activityID>
+    <URL>http://twitter.com/statuses/show/1706768029.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Anywhere I need to be (so long</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/cindy4health' uid='15620823'>cindy4health</actor>
+    <destinationURL>http://twitter.com/cindy4health/status/1706768029</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767900</activityID>
+    <URL>http://twitter.com/statuses/show/1706767900.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>los angeles,ca (soon)</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/lafuntown' uid='22579768'>lafuntown</actor>
+    <destinationURL>http://twitter.com/lafuntown/status/1706767900</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:13.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771779</activityID>
+    <URL>http://twitter.com/statuses/show/1706771779.xml</URL>
+    <source>twitterrific</source>
+    <place>
+      <featurename>Chicago</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/EmilyLozano' uid='19852011'>EmilyLozano</actor>
+    <destinationURL>http://twitter.com/EmilyLozano/status/1706771779</destinationURL>
+    <to metaURL='http://twitter.com/johnroa'>johnroa</to>
+    <regardingURL>http://twitter.com/johnroa/status/1706693300</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:13.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771823</activityID>
+    <URL>http://twitter.com/statuses/show/1706771823.xml</URL>
+    <source>Tweetie</source>
+    <place>
+      <featurename>Huntsville, AL</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/FrankSnyder' uid='14236117'>FrankSnyder</actor>
+    <destinationURL>http://twitter.com/FrankSnyder/status/1706771823</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767717</activityID>
+    <URL>http://twitter.com/statuses/show/1706767717.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Atlanta, GA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/TLSEliteEvents' uid='31599951'>TLSEliteEvents</actor>
+    <destinationURL>http://twitter.com/TLSEliteEvents/status/1706767717</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770647</activityID>
+    <URL>http://twitter.com/statuses/show/1706770647.xml</URL>
+    <source>Twit</source>
+    <place>
+      <featurename>kanagawa</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/hitokara' uid='7627922'>hitokara</actor>
+    <destinationURL>http://twitter.com/hitokara/status/1706770647</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767734</activityID>
+    <URL>http://twitter.com/statuses/show/1706767734.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>IA, USA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/BeckyDMBR' uid='7921892'>BeckyDMBR</actor>
+    <destinationURL>http://twitter.com/BeckyDMBR/status/1706767734</destinationURL>
+    <to metaURL='http://twitter.com/bweikle'>bweikle</to>
+    <regardingURL>http://twitter.com/bweikle/status/1706547202</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771112</activityID>
+    <URL>http://twitter.com/statuses/show/1706771112.xml</URL>
+    <source>TwitPic</source>
+    <place>
+      <featurename>Central Texas</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Str8Line' uid='33744526'>Str8Line</actor>
+    <destinationURL>http://twitter.com/Str8Line/status/1706771112</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767790</activityID>
+    <URL>http://twitter.com/statuses/show/1706767790.xml</URL>
+    <source>Power Twitter</source>
+    <place>
+      <featurename>Washington, D.C.</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/mgreenwald' uid='21335623'>mgreenwald</actor>
+    <destinationURL>http://twitter.com/mgreenwald/status/1706767790</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767842</activityID>
+    <URL>http://twitter.com/statuses/show/1706767842.xml</URL>
+    <source>TwitterFon</source>
+    <place>
+      <featurename>iPhone: 35.547443,139.626221</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Nekomaji' uid='15927367'>Nekomaji</actor>
+    <destinationURL>http://twitter.com/Nekomaji/status/1706767842</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772516</activityID>
+    <URL>http://twitter.com/statuses/show/1706772516.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/sme2sme2' uid='6327432'>sme2sme2</actor>
+    <destinationURL>http://twitter.com/sme2sme2/status/1706772516</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:42.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820481</activityID>
+    <URL>http://twitter.com/statuses/show/1706820481.xml</URL>
+    <source>TwitterBerry</source>
+    <place>
+      <featurename>SugarTown</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/joeysboombox' uid='20105269'>joeysboombox</actor>
+    <destinationURL>http://twitter.com/joeysboombox/status/1706820481</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771209</activityID>
+    <URL>http://twitter.com/statuses/show/1706771209.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>埼玉！ださくないたまー！</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/yume415' uid='16028524'>yume415</actor>
+    <destinationURL>http://twitter.com/yume415/status/1706771209</destinationURL>
+    <to metaURL='http://twitter.com/pi_co'>pi_co</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:42.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820450</activityID>
+    <URL>http://twitter.com/statuses/show/1706820450.xml</URL>
+    <source>Tweetie</source>
+    <actor metaURL='http://twitter.com/TheJmx' uid='37677547'>TheJmx</actor>
+    <destinationURL>http://twitter.com/TheJmx/status/1706820450</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771122</activityID>
+    <URL>http://twitter.com/statuses/show/1706771122.xml</URL>
+    <source>dabr</source>
+    <place>
+      <featurename>Caversham, England</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/amykate' uid='2024301'>amykate</actor>
+    <destinationURL>http://twitter.com/amykate/status/1706771122</destinationURL>
+    <to metaURL='http://twitter.com/TheSourceress'>TheSourceress</to>
+    <regardingURL>http://twitter.com/TheSourceress/status/1706686630</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:42.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820516</activityID>
+    <URL>http://twitter.com/statuses/show/1706820516.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Houston, Tx</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/LadyNasty' uid='19601749'>LadyNasty</actor>
+    <destinationURL>http://twitter.com/LadyNasty/status/1706820516</destinationURL>
+    <to metaURL='http://twitter.com/plynke'>plynke</to>
+    <regardingURL>http://twitter.com/plynke/status/1703738144</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:42.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820499</activityID>
+    <URL>http://twitter.com/statuses/show/1706820499.xml</URL>
+    <source>txt</source>
+    <place>
+      <featurename>West Palm Beach, Fl</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Zoreezy' uid='21568103'>Zoreezy</actor>
+    <destinationURL>http://twitter.com/Zoreezy/status/1706820499</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:20.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772874</activityID>
+    <URL>http://twitter.com/statuses/show/1706772874.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Singapore-Tianjin</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/icetrace' uid='22031960'>icetrace</actor>
+    <destinationURL>http://twitter.com/icetrace/status/1706772874</destinationURL>
+    <to metaURL='http://twitter.com/robertojxx'>robertojxx</to>
+    <regardingURL>http://twitter.com/robertojxx/status/1706698876</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:21.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772981</activityID>
+    <URL>http://twitter.com/statuses/show/1706772981.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Monrovia</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/bhseo' uid='36642361'>bhseo</actor>
+    <destinationURL>http://twitter.com/bhseo/status/1706772981</destinationURL>
+    <to metaURL='http://twitter.com/graywolf'>graywolf</to>
+    <regardingURL>http://twitter.com/graywolf/status/1706506603</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769098</activityID>
+    <URL>http://twitter.com/statuses/show/1706769098.xml</URL>
+    <source>TwitterBerry</source>
+    <place>
+      <featurename>Brooklyn</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/LaShea_SaShea' uid='20852081'>LaShea_SaShea</actor>
+    <destinationURL>http://twitter.com/LaShea_SaShea/status/1706769098</destinationURL>
+    <to metaURL='http://twitter.com/damagereport'>damagereport</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769083</activityID>
+    <URL>http://twitter.com/statuses/show/1706769083.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/Kristen_kclp' uid='37941936'>Kristen_kclp</actor>
+    <destinationURL>http://twitter.com/Kristen_kclp/status/1706769083</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769086</activityID>
+    <URL>http://twitter.com/statuses/show/1706769086.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Toronto</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/michalhay' uid='15801773'>michalhay</actor>
+    <destinationURL>http://twitter.com/michalhay/status/1706769086</destinationURL>
+    <to metaURL='http://twitter.com/laforet'>laforet</to>
+    <regardingURL>http://twitter.com/laforet/status/1706715057</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770723</activityID>
+    <URL>http://twitter.com/statuses/show/1706770723.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Hattiesburg</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/wdam' uid='17395207'>wdam</actor>
+    <destinationURL>http://twitter.com/wdam/status/1706770723</destinationURL>
+    <to metaURL='http://twitter.com/pbrahan'>pbrahan</to>
+    <regardingURL>http://twitter.com/pbrahan/status/1662400783</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769122</activityID>
+    <URL>http://twitter.com/statuses/show/1706769122.xml</URL>
+    <source>twitterrific</source>
+    <place>
+      <featurename>Minneapolis, Minnesota</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/burnunit' uid='3243181'>burnunit</actor>
+    <destinationURL>http://twitter.com/burnunit/status/1706769122</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:06.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770597</activityID>
+    <URL>http://twitter.com/statuses/show/1706770597.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/aubuRNsteelers' uid='19538731'>aubuRNsteelers</actor>
+    <destinationURL>http://twitter.com/aubuRNsteelers/status/1706770597</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770716</activityID>
+    <URL>http://twitter.com/statuses/show/1706770716.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Madison, WI</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/mediasite' uid='15722982'>mediasite</actor>
+    <destinationURL>http://twitter.com/mediasite/status/1706770716</destinationURL>
+    <to metaURL='http://twitter.com/stephen_lex'>stephen_lex</to>
+    <regardingURL>http://twitter.com/stephen_lex/status/1667981865</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:19.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772658</activityID>
+    <URL>http://twitter.com/statuses/show/1706772658.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>台灣 花蓮 </featurename>
+    </place>
+    <actor metaURL='http://twitter.com/kyohsu' uid='35729350'>kyohsu</actor>
+    <destinationURL>http://twitter.com/kyohsu/status/1706772658</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:19.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772630</activityID>
+    <URL>http://twitter.com/statuses/show/1706772630.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Vancouver, BC</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/gaddzeit' uid='23964088'>gaddzeit</actor>
+    <destinationURL>http://twitter.com/gaddzeit/status/1706772630</destinationURL>
+    <to metaURL='http://twitter.com/ekoner'>ekoner</to>
+    <regardingURL>http://twitter.com/ekoner/status/1706758227</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:56.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706769079</activityID>
+    <URL>http://twitter.com/statuses/show/1706769079.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Bangalore</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/nchokkan' uid='14524956'>nchokkan</actor>
+    <destinationURL>http://twitter.com/nchokkan/status/1706769079</destinationURL>
+    <to metaURL='http://twitter.com/krishchandru'>krishchandru</to>
+    <regardingURL>http://twitter.com/krishchandru/status/1706754119</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768509</activityID>
+    <URL>http://twitter.com/statuses/show/1706768509.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>North Carolina</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/lkosakcamp' uid='35468524'>lkosakcamp</actor>
+    <destinationURL>http://twitter.com/lkosakcamp/status/1706768509</destinationURL>
+    <to metaURL='http://twitter.com/angelajames'>angelajames</to>
+    <regardingURL>http://twitter.com/angelajames/status/1706404567</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768488</activityID>
+    <URL>http://twitter.com/statuses/show/1706768488.xml</URL>
+    <source>Blip.fm</source>
+    <place>
+      <featurename>New York, NY!</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/DionRoy' uid='16253322'>DionRoy</actor>
+    <destinationURL>http://twitter.com/DionRoy/status/1706768488</destinationURL>
+    <to metaURL='http://twitter.com/truejerseygirl'>truejerseygirl</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768499</activityID>
+    <URL>http://twitter.com/statuses/show/1706768499.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Saint Louis, MO</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/viadove' uid='23310975'>viadove</actor>
+    <destinationURL>http://twitter.com/viadove/status/1706768499</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771118</activityID>
+    <URL>http://twitter.com/statuses/show/1706771118.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>iPhone: 39.023865,-94.778580</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/miketrin' uid='2177121'>miketrin</actor>
+    <destinationURL>http://twitter.com/miketrin/status/1706771118</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770212</activityID>
+    <URL>http://twitter.com/statuses/show/1706770212.xml</URL>
+    <source>txt</source>
+    <place>
+      <featurename>Tucson, AZ</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/ChasingTheGhost' uid='22285041'>ChasingTheGhost</actor>
+    <destinationURL>http://twitter.com/ChasingTheGhost/status/1706770212</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771281</activityID>
+    <URL>http://twitter.com/statuses/show/1706771281.xml</URL>
+    <source>Tween</source>
+    <place>
+      <featurename>埼玉県の最南端</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/acuremx' uid='19844385'>acuremx</actor>
+    <destinationURL>http://twitter.com/acuremx/status/1706771281</destinationURL>
+    <to metaURL='http://twitter.com/xmmm'>xmmm</to>
+    <regardingURL>http://twitter.com/xmmm/status/1706735531</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:05.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770312</activityID>
+    <URL>http://twitter.com/statuses/show/1706770312.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Orlando, Fl</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/aKatiej' uid='21408050'>aKatiej</actor>
+    <destinationURL>http://twitter.com/aKatiej/status/1706770312</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771167</activityID>
+    <URL>http://twitter.com/statuses/show/1706771167.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/agotlieb' uid='15955758'>agotlieb</actor>
+    <destinationURL>http://twitter.com/agotlieb/status/1706771167</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770201</activityID>
+    <URL>http://twitter.com/statuses/show/1706770201.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Mexico city</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/srta' uid='6296472'>srta</actor>
+    <destinationURL>http://twitter.com/srta/status/1706770201</destinationURL>
+    <to metaURL='http://twitter.com/noerodriguez'>noerodriguez</to>
+    <regardingURL>http://twitter.com/noerodriguez/status/1706762068</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771205</activityID>
+    <URL>http://twitter.com/statuses/show/1706771205.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Harrison, AR</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/mrackley' uid='16784980'>mrackley</actor>
+    <destinationURL>http://twitter.com/mrackley/status/1706771205</destinationURL>
+    <to metaURL='http://twitter.com/tsongvilay1'>tsongvilay1</to>
+    <regardingURL>http://twitter.com/tsongvilay1/status/1705886560</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771138</activityID>
+    <URL>http://twitter.com/statuses/show/1706771138.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>California</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/jstrevino' uid='5923062'>jstrevino</actor>
+    <destinationURL>http://twitter.com/jstrevino/status/1706771138</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770297</activityID>
+    <URL>http://twitter.com/statuses/show/1706770297.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Manchester, Uk</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/RELewington' uid='27310514'>RELewington</actor>
+    <destinationURL>http://twitter.com/RELewington/status/1706770297</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771347</activityID>
+    <URL>http://twitter.com/statuses/show/1706771347.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/carolynizinha' uid='17516864'>carolynizinha</actor>
+    <destinationURL>http://twitter.com/carolynizinha/status/1706771347</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:14.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771859</activityID>
+    <URL>http://twitter.com/statuses/show/1706771859.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/squidthorn' uid='16010690'>squidthorn</actor>
+    <destinationURL>http://twitter.com/squidthorn/status/1706771859</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768487</activityID>
+    <URL>http://twitter.com/statuses/show/1706768487.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Detroit, MI</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/lionsbuzztap' uid='21842001'>lionsbuzztap</actor>
+    <destinationURL>http://twitter.com/lionsbuzztap/status/1706768487</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768476</activityID>
+    <URL>http://twitter.com/statuses/show/1706768476.xml</URL>
+    <source>Tweetie</source>
+    <place>
+      <featurename>Web</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/rtman' uid='36789461'>rtman</actor>
+    <destinationURL>http://twitter.com/rtman/status/1706768476</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770287</activityID>
+    <URL>http://twitter.com/statuses/show/1706770287.xml</URL>
+    <source>TwitterFon</source>
+    <actor metaURL='http://twitter.com/DzWifey' uid='37834849'>DzWifey</actor>
+    <destinationURL>http://twitter.com/DzWifey/status/1706770287</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767783</activityID>
+    <URL>http://twitter.com/statuses/show/1706767783.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/meagan777' uid='33934301'>meagan777</actor>
+    <destinationURL>http://twitter.com/meagan777/status/1706767783</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771234</activityID>
+    <URL>http://twitter.com/statuses/show/1706771234.xml</URL>
+    <source>GroupTweet</source>
+    <place>
+      <featurename>United States</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/kindleboards' uid='37188815'>kindleboards</actor>
+    <destinationURL>http://twitter.com/kindleboards/status/1706771234</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:14.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771957</activityID>
+    <URL>http://twitter.com/statuses/show/1706771957.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Oslo</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Coltpr' uid='19611943'>Coltpr</actor>
+    <destinationURL>http://twitter.com/Coltpr/status/1706771957</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:17.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772351</activityID>
+    <URL>http://twitter.com/statuses/show/1706772351.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Oakland, CA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/ihatewheat' uid='3887561'>ihatewheat</actor>
+    <destinationURL>http://twitter.com/ihatewheat/status/1706772351</destinationURL>
+    <to metaURL='http://twitter.com/trent_reznor'>trent_reznor</to>
+    <regardingURL>http://twitter.com/trent_reznor/status/1706756599</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771337</activityID>
+    <URL>http://twitter.com/statuses/show/1706771337.xml</URL>
+    <source>twidroid</source>
+    <place>
+      <featurename>PA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/KingRichie2nd' uid='36803269'>KingRichie2nd</actor>
+    <destinationURL>http://twitter.com/KingRichie2nd/status/1706771337</destinationURL>
+    <to metaURL='http://twitter.com/Laurynhilton485'>Laurynhilton485</to>
+    <regardingURL>http://twitter.com/Laurynhilton485/status/1706734170</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771180</activityID>
+    <URL>http://twitter.com/statuses/show/1706771180.xml</URL>
+    <source>twitterrific</source>
+    <place>
+      <featurename>iPhone: 40.731651,-73.208344</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Peter4776' uid='27051036'>Peter4776</actor>
+    <destinationURL>http://twitter.com/Peter4776/status/1706771180</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771331</activityID>
+    <URL>http://twitter.com/statuses/show/1706771331.xml</URL>
+    <source>txt</source>
+    <actor metaURL='http://twitter.com/athompsan' uid='35668089'>athompsan</actor>
+    <destinationURL>http://twitter.com/athompsan/status/1706771331</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770690</activityID>
+    <URL>http://twitter.com/statuses/show/1706770690.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>nyc</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/jennimiller76' uid='25990919'>jennimiller76</actor>
+    <destinationURL>http://twitter.com/jennimiller76/status/1706770690</destinationURL>
+    <to metaURL='http://twitter.com/ManMadeMoon'>ManMadeMoon</to>
+    <regardingURL>http://twitter.com/ManMadeMoon/status/1706735697</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772125</activityID>
+    <URL>http://twitter.com/statuses/show/1706772125.xml</URL>
+    <source>txt</source>
+    <place>
+      <featurename>New Orleans</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/omgkris' uid='23350351'>omgkris</actor>
+    <destinationURL>http://twitter.com/omgkris/status/1706772125</destinationURL>
+    <to metaURL='http://twitter.com/humidifier'>humidifier</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:09.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771165</activityID>
+    <URL>http://twitter.com/statuses/show/1706771165.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Wimberley, Texas</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/CoCreatorRadio' uid='15327488'>CoCreatorRadio</actor>
+    <destinationURL>http://twitter.com/CoCreatorRadio/status/1706771165</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:10.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771267</activityID>
+    <URL>http://twitter.com/statuses/show/1706771267.xml</URL>
+    <source>digsby</source>
+    <place>
+      <featurename>Rochester, NY</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/StefyWefy' uid='35149266'>StefyWefy</actor>
+    <destinationURL>http://twitter.com/StefyWefy/status/1706771267</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706771973</activityID>
+    <URL>http://twitter.com/statuses/show/1706771973.xml</URL>
+    <source>TwitterFox</source>
+    <place>
+      <featurename>Sunny Tel-Aviv, Israel</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/OrenTodoros' uid='12905592'>OrenTodoros</actor>
+    <destinationURL>http://twitter.com/OrenTodoros/status/1706771973</destinationURL>
+    <to metaURL='http://twitter.com/taltalk'>taltalk</to>
+    <regardingURL>http://twitter.com/taltalk/status/1706738236</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772122</activityID>
+    <URL>http://twitter.com/statuses/show/1706772122.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Shreveport, La</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Neika_Boo' uid='29038015'>Neika_Boo</actor>
+    <destinationURL>http://twitter.com/Neika_Boo/status/1706772122</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:16.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772186</activityID>
+    <URL>http://twitter.com/statuses/show/1706772186.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>New Paltz</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/stephaniedwh' uid='27370333'>stephaniedwh</actor>
+    <destinationURL>http://twitter.com/stephaniedwh/status/1706772186</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770744</activityID>
+    <URL>http://twitter.com/statuses/show/1706770744.xml</URL>
+    <source>twitterfeed</source>
+    <actor metaURL='http://twitter.com/sutherla' uid='25260372'>sutherla</actor>
+    <destinationURL>http://twitter.com/sutherla/status/1706770744</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:04.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770278</activityID>
+    <URL>http://twitter.com/statuses/show/1706770278.xml</URL>
+    <source>Twim</source>
+    <actor metaURL='http://twitter.com/Benfrnkl' uid='14678213'>Benfrnkl</actor>
+    <destinationURL>http://twitter.com/Benfrnkl/status/1706770278</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:05.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770389</activityID>
+    <URL>http://twitter.com/statuses/show/1706770389.xml</URL>
+    <source>AlertThingy</source>
+    <place>
+      <featurename>Elgin, IL</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Spider_Monkey' uid='13120782'>Spider_Monkey</actor>
+    <destinationURL>http://twitter.com/Spider_Monkey/status/1706770389</destinationURL>
+    <to metaURL='http://twitter.com/stormy0ceaneyes'>stormy0ceaneyes</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770793</activityID>
+    <URL>http://twitter.com/statuses/show/1706770793.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Chicago, IL</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/CHIhotelblog' uid='20423230'>CHIhotelblog</actor>
+    <destinationURL>http://twitter.com/CHIhotelblog/status/1706770793</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772033</activityID>
+    <URL>http://twitter.com/statuses/show/1706772033.xml</URL>
+    <source>TwitterFox</source>
+    <place>
+      <featurename>Orlando</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/David_Nagy' uid='15598496'>David_Nagy</actor>
+    <destinationURL>http://twitter.com/David_Nagy/status/1706772033</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770768</activityID>
+    <URL>http://twitter.com/statuses/show/1706770768.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Tokyo,</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/eggheadcom' uid='26707310'>eggheadcom</actor>
+    <destinationURL>http://twitter.com/eggheadcom/status/1706770768</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:16.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772188</activityID>
+    <URL>http://twitter.com/statuses/show/1706772188.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Germany</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/druckerzubehoer' uid='30432098'>druckerzubehoer</actor>
+    <destinationURL>http://twitter.com/druckerzubehoer/status/1706772188</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770725</activityID>
+    <URL>http://twitter.com/statuses/show/1706770725.xml</URL>
+    <source>Twittelator</source>
+    <place>
+      <featurename>On the move</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/matthammitt' uid='16731349'>matthammitt</actor>
+    <destinationURL>http://twitter.com/matthammitt/status/1706770725</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:42.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820622</activityID>
+    <URL>http://twitter.com/statuses/show/1706820622.xml</URL>
+    <source>movatwitter</source>
+    <place>
+      <featurename>鳥カゴの中(脱出間近)</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/yatu' uid='9417672'>yatu</actor>
+    <destinationURL>http://twitter.com/yatu/status/1706820622</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772031</activityID>
+    <URL>http://twitter.com/statuses/show/1706772031.xml</URL>
+    <source>Twitter Tools</source>
+    <actor metaURL='http://twitter.com/Techeroid' uid='32177109'>Techeroid</actor>
+    <destinationURL>http://twitter.com/Techeroid/status/1706772031</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:42.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820634</activityID>
+    <URL>http://twitter.com/statuses/show/1706820634.xml</URL>
+    <source>HootSuite</source>
+    <place>
+      <featurename>St. Paul, MN</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/KRTS' uid='1390801'>KRTS</actor>
+    <destinationURL>http://twitter.com/KRTS/status/1706820634</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:16.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772222</activityID>
+    <URL>http://twitter.com/statuses/show/1706772222.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Dallas, TX</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/DLisaD' uid='14260661'>DLisaD</actor>
+    <destinationURL>http://twitter.com/DLisaD/status/1706772222</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:43.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820671</activityID>
+    <URL>http://twitter.com/statuses/show/1706820671.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>ウィンドラント</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/kiwr_rn' uid='35191567'>kiwr_rn</actor>
+    <destinationURL>http://twitter.com/kiwr_rn/status/1706820671</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767733</activityID>
+    <URL>http://twitter.com/statuses/show/1706767733.xml</URL>
+    <source>WP to Twitter</source>
+    <place>
+      <featurename>Brazil</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/blogjobsbr' uid='32307155'>blogjobsbr</actor>
+    <destinationURL>http://twitter.com/blogjobsbr/status/1706767733</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767787</activityID>
+    <URL>http://twitter.com/statuses/show/1706767787.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Chuck Vegas Baby!</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/mystic_burrito' uid='26179068'>mystic_burrito</actor>
+    <destinationURL>http://twitter.com/mystic_burrito/status/1706767787</destinationURL>
+    <to metaURL='http://twitter.com/deegoings'>deegoings</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768513</activityID>
+    <URL>http://twitter.com/statuses/show/1706768513.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/zuess369' uid='16244137'>zuess369</actor>
+    <destinationURL>http://twitter.com/zuess369/status/1706768513</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768504</activityID>
+    <URL>http://twitter.com/statuses/show/1706768504.xml</URL>
+    <source>mobile web</source>
+    <place>
+      <featurename>Gainesville, Fl</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/mentexnike' uid='17984934'>mentexnike</actor>
+    <destinationURL>http://twitter.com/mentexnike/status/1706768504</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:19.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772704</activityID>
+    <URL>http://twitter.com/statuses/show/1706772704.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>London, England</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/QoSFunky' uid='25007454'>QoSFunky</actor>
+    <destinationURL>http://twitter.com/QoSFunky/status/1706772704</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:16.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772187</activityID>
+    <URL>http://twitter.com/statuses/show/1706772187.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>St. Elsewhere</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/EZPimpinKam' uid='23008053'>EZPimpinKam</actor>
+    <destinationURL>http://twitter.com/EZPimpinKam/status/1706772187</destinationURL>
+    <to metaURL='http://twitter.com/flyguytray'>flyguytray</to>
+    <regardingURL>http://twitter.com/flyguytray/status/1706758771</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:19.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772643</activityID>
+    <URL>http://twitter.com/statuses/show/1706772643.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Lincolnshire, England</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/GrahamFP' uid='21294395'>GrahamFP</actor>
+    <destinationURL>http://twitter.com/GrahamFP/status/1706772643</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:15.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772069</activityID>
+    <URL>http://twitter.com/statuses/show/1706772069.xml</URL>
+    <source>Perl Net::Twitter</source>
+    <place>
+      <featurename>Valley Forge, PA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/watrcoolr' uid='25114343'>watrcoolr</actor>
+    <destinationURL>http://twitter.com/watrcoolr/status/1706772069</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770805</activityID>
+    <URL>http://twitter.com/statuses/show/1706770805.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>２丁目</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/kioka' uid='36892720'>kioka</actor>
+    <destinationURL>http://twitter.com/kioka/status/1706770805</destinationURL>
+    <to metaURL='http://twitter.com/SHunseki'>SHunseki</to>
+    <regardingURL>http://twitter.com/SHunseki/status/1706748222</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:19.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772622</activityID>
+    <URL>http://twitter.com/statuses/show/1706772622.xml</URL>
+    <source>TwitterBerry</source>
+    <place>
+      <featurename>Pittsburgh</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/sweet14rn' uid='21125778'>sweet14rn</actor>
+    <destinationURL>http://twitter.com/sweet14rn/status/1706772622</destinationURL>
+    <to metaURL='http://twitter.com/freakshowmikey'>freakshowmikey</to>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:16.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772259</activityID>
+    <URL>http://twitter.com/statuses/show/1706772259.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/Wendah' uid='34298801'>Wendah</actor>
+    <destinationURL>http://twitter.com/Wendah/status/1706772259</destinationURL>
+    <to metaURL='http://twitter.com/trent_reznor'>trent_reznor</to>
+    <regardingURL>http://twitter.com/trent_reznor/status/1706683206</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:52.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706768524</activityID>
+    <URL>http://twitter.com/statuses/show/1706768524.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Dublin, Ireland</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/stephencoffey' uid='19586658'>stephencoffey</actor>
+    <destinationURL>http://twitter.com/stephencoffey/status/1706768524</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:21.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772970</activityID>
+    <URL>http://twitter.com/statuses/show/1706772970.xml</URL>
+    <source>TwitterFon</source>
+    <place>
+      <featurename>Florida!</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/ErinnMariee' uid='18127240'>ErinnMariee</actor>
+    <destinationURL>http://twitter.com/ErinnMariee/status/1706772970</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:07.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706770825</activityID>
+    <URL>http://twitter.com/statuses/show/1706770825.xml</URL>
+    <source>twhirl</source>
+    <place>
+      <featurename>planet earth</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/subconscious_p' uid='20599517'>subconscious_p</actor>
+    <destinationURL>http://twitter.com/subconscious_p/status/1706770825</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767893</activityID>
+    <URL>http://twitter.com/statuses/show/1706767893.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>Lost Africa</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/yolopersona' uid='18328247'>yolopersona</actor>
+    <destinationURL>http://twitter.com/yolopersona/status/1706767893</destinationURL>
+    <to metaURL='http://twitter.com/dopegirlfresh'>dopegirlfresh</to>
+    <regardingURL>http://twitter.com/dopegirlfresh/status/1706742298</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767918</activityID>
+    <URL>http://twitter.com/statuses/show/1706767918.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/Colinnater' uid='37824138'>Colinnater</actor>
+    <destinationURL>http://twitter.com/Colinnater/status/1706767918</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767889</activityID>
+    <URL>http://twitter.com/statuses/show/1706767889.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>BAY AREA, CALIFORNIA</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/TMAZZBIGRIG' uid='21905723'>TMAZZBIGRIG</actor>
+    <destinationURL>http://twitter.com/TMAZZBIGRIG/status/1706767889</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767789</activityID>
+    <URL>http://twitter.com/statuses/show/1706767789.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/openhappiness' uid='19035238'>openhappiness</actor>
+    <destinationURL>http://twitter.com/openhappiness/status/1706767789</destinationURL>
+    <to metaURL='http://twitter.com/Dinosaurprnx3'>Dinosaurprnx3</to>
+    <regardingURL>http://twitter.com/Dinosaurprnx3/status/1671401284</regardingURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767830</activityID>
+    <URL>http://twitter.com/statuses/show/1706767830.xml</URL>
+    <source>TweetDeck</source>
+    <place>
+      <featurename>Lubbock, Texas</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/copycraft' uid='22143923'>copycraft</actor>
+    <destinationURL>http://twitter.com/copycraft/status/1706767830</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767778</activityID>
+    <URL>http://twitter.com/statuses/show/1706767778.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>London, UK</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/mjnewham' uid='14948315'>mjnewham</actor>
+    <destinationURL>http://twitter.com/mjnewham/status/1706767778</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:16.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772226</activityID>
+    <URL>http://twitter.com/statuses/show/1706772226.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/overfieldsyoned' uid='37711960'>overfieldsyoned</actor>
+    <destinationURL>http://twitter.com/overfieldsyoned/status/1706772226</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:16.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772147</activityID>
+    <URL>http://twitter.com/statuses/show/1706772147.xml</URL>
+    <source>HootSuite</source>
+    <place>
+      <featurename>Gilbert, Arizona</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Be_The_Dream' uid='20639843'>Be_The_Dream</actor>
+    <destinationURL>http://twitter.com/Be_The_Dream/status/1706772147</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:15:43.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706820760</activityID>
+    <URL>http://twitter.com/statuses/show/1706820760.xml</URL>
+    <source>twitterfeed</source>
+    <place>
+      <featurename>Maryland</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/Kaliqo' uid='7187702'>Kaliqo</actor>
+    <destinationURL>http://twitter.com/Kaliqo/status/1706820760</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:10:18.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706772603</activityID>
+    <URL>http://twitter.com/statuses/show/1706772603.xml</URL>
+    <source>web</source>
+    <place>
+      <featurename>仙台</featurename>
+    </place>
+    <actor metaURL='http://twitter.com/hajimekko' uid='27141890'>hajimekko</actor>
+    <destinationURL>http://twitter.com/hajimekko/status/1706772603</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:48.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767864</activityID>
+    <URL>http://twitter.com/statuses/show/1706767864.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/RebelCapitalist' uid='18086787'>RebelCapitalist</actor>
+    <destinationURL>http://twitter.com/RebelCapitalist/status/1706767864</destinationURL>
+  </activity>
+  <activity>
+    <at>2009-05-05T15:09:47.000Z</at>
+    <action>notice</action>
+    <activityID>tag:twitter.com,2007:statuses/1706767774</activityID>
+    <URL>http://twitter.com/statuses/show/1706767774.xml</URL>
+    <source>web</source>
+    <actor metaURL='http://twitter.com/Katrinonus' uid='21235918'>Katrinonus</actor>
+    <destinationURL>http://twitter.com/Katrinonus/status/1706767774</destinationURL>
+    <to metaURL='http://twitter.com/xthemusic'>xthemusic</to>
+    <regardingURL>http://twitter.com/xthemusic/status/1706628446</regardingURL>
+  </activity>
+</activities>
