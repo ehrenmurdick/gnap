@@ -12,7 +12,7 @@ Then /^I should be able to create filter "([^\"]*)"$/ do |name|
 end
 
 Then /^add an "([^\"]*)" rule with a value of "([^\"]*)"$/ do |type, value|
-  @filter.should_receive(:post).with("/gnip/publishers/delicious/filters/#{@filter}/rules.xml", "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rules><rule type=\"#{type}\">#{value}</rule></rules>")
+  @filter.should_receive(:post).with("/gnip/publishers/#{@publisher}/filters/#{@filter}/rules.xml", "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rules><rule type=\"#{type}\">#{value}</rule></rules>")
   @filter.add_rule!(type, value)
 end
 
