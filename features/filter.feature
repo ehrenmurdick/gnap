@@ -9,6 +9,9 @@ Feature: Filters
   Scenario: Creating a filter
     Then I should be able to create filter "foobar"
 
+  Scenario: Postback url
+    Then I should be able to create filter "foobar" with a postback rule
+
   Scenario Outline: Adding rules
     Then I should be able to create filter "foobar"
     And add an "<type>" rule with a value of "<value>"

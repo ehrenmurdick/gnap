@@ -27,6 +27,7 @@ module Gnap
 
     def get(path)
       req = prepare_request(HTTP::Get, path)
+      req.content_type = "application/xml"
       @http.request(req).body
     end
 
