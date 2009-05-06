@@ -21,10 +21,15 @@ module Gnap
     def create_filter! name, rules
       data = Filter.new(@config, @publisher, name, rules).to_xml
       post(path + NEW_FILTER_PATH % @publisher, data)
+      filter(name)
     end
 
     def path
       PATH % @publisher
+    end
+
+    def to_s
+      @publisher
     end
 
     private

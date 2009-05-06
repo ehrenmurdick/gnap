@@ -44,6 +44,10 @@ module Gnap
       "#{path}/rules.xml"
     end
 
+    def to_s
+      @filter
+    end
+
     private
 
     def rules_to_xml doc, rules
