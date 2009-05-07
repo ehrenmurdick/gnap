@@ -4,3 +4,4 @@ Feature: Gnap connection
     Then I should be able to construct requests
     And I should be able to make post requests
     And I should be able to make get requests
+    And I should be able to make put requests

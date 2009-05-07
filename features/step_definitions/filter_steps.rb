@@ -7,8 +7,7 @@ Then /^I should be able to get the "([^\"]*)" filter$/ do |filter|
 end
 
 Then /^I should be able to create filter "([^\"]*)"$/ do |name|
-  @publisher.should_receive(:post).with("/gnip/publishers/#{@publisher}/filters.xml",
-        "<?xml version=\"1.0\" encoding=\"UTF-8\"?><filter fullData=\"false\" name=\"#{name}\"><rule type=\"actor\">bazqux</rule></filter>")
+  @publisher.should_receive(:post).with("/gnip/publishers/delicious/filters.xml", "<?xml version=\"1.0\" encoding=\"UTF-8\"?><filter name=\"foobar\" fullData=\"false\"><rule type=\"actor\">bazqux</rule></filter>") 
   @filter = @publisher.create_filter!("foobar", :actor => "bazqux")
 end
 
@@ -19,7 +18,13 @@ Then /^add an "([^\"]*)" rule with a value of "([^\"]*)"$/ do |type, value|
 end
 
 Then /^I should be able to create filter "([^\"]*)" with a postback rule$/ do |name|
-  @publisher.should_receive(:post).with("/gnip/publishers/delicious/filters.xml", "<?xml version=\"1.0\" encoding=\"UTF-8\"?><filter fullData=\"false\" name=\"foobar\"><postURL>http://some.url/path</postURL><rule type=\"actor\">bazqux</rule></filter>") 
+  @publisher.should_receive(:post).with("/gnip/publishers/delicious/filters.xml", "<?xml version=\"1.0\" encoding=\"UTF-8\"?><filter name=\"foobar\" fullData=\"false\"><postURL>http://some.url/path</postURL><rule type=\"actor\">bazqux</rule></filter>")
   @filter = @publisher.create_filter!("foobar", :actor => "bazqux", :postURL => "http://some.url/path")
+end
+
+
+Then /^I should be able to update a filter "([^\"]*)"$/ do |name|
+  @publisher.should_receive(:put).with("/gnip/publishers/delicious/filters/delicious.xml", "<?xml version=\"1.0\" encoding=\"UTF-8\"?><filter name=\"foobar\" fullData=\"false\"><rule type=\"actor\">bazqux</rule></filter>") 
+  @filter = @publisher.update_filter!(name, :actor => "bazqux")
 end
 

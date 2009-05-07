@@ -3,6 +3,7 @@ module Gnap
     PATH = "/gnip/publishers/%s"
     NOTIFICATION_PATH = "/notification/%s.xml"
     NEW_FILTER_PATH = "/filters.xml"
+    UPDATE_FILTER_PATH = "/filters/%s.xml"
 
     def initialize config, name
       @publisher = name.to_s
@@ -21,6 +22,12 @@ module Gnap
     def create_filter! name, rules
       data = Filter.new(@config, @publisher, name, rules).to_xml
       post(path + NEW_FILTER_PATH % @publisher, data)
+      filter(name)
+    end
+
+    def update_filter! name, rules
+      data = Filter.new(@config, @publisher, name, rules).to_xml
+      put(path + UPDATE_FILTER_PATH % [@publisher, name], data)
       filter(name)
     end
 

@@ -9,6 +9,9 @@ Feature: Filters
   Scenario: Creating a filter
     Then I should be able to create filter "foobar"
 
+  Scenario: Updating a filter
+    Then I should be able to update a filter "foobar"
+
   Scenario: Postback url
     Then I should be able to create filter "foobar" with a postback rule
 

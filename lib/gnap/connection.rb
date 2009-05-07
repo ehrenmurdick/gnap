@@ -22,19 +22,24 @@ module Gnap
     def prepare_request(type, path)
       returning type.new(path) do |req|
         req.basic_auth(@config[:username], @config[:password])
+        req.content_type = "application/xml"
       end
     end
 
     def get(path)
       req = prepare_request(HTTP::Get, path)
-      req.content_type = "application/xml"
       @http.request(req).body
     end
 
     def post(path, data)
       req = prepare_request(HTTP::Post, path)
       req.body = data
-      req.content_type = "application/xml"
+      @http.request(req).body
+    end
+
+    def put(path, data)
+      req = prepare_request(HTTP::Put, path)
+      req.body = data
       @http.request(req).body
     end
   end

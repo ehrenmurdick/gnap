@@ -21,3 +21,12 @@ Then /^I should be able to make post requests$/ do
   @gnap.instance_variable_set("@http", fake_http)
   @gnap.send(:post, "some/path", "some data")
 end
+
+Then /^I should be able to make put requests$/ do
+  fake_http = Object.new
+  resp = Object.new
+  resp.stub!(:body).and_return("body")
+  fake_http.should_receive(:request).and_return(resp)
+  @gnap.instance_variable_set("@http", fake_http)
+  @gnap.send(:put, "some/path", "some data")
+end
