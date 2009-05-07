@@ -24,7 +24,7 @@ end
 
 
 Then /^I should be able to update a filter "([^\"]*)"$/ do |name|
-  @publisher.should_receive(:put).with("/gnip/publishers/delicious/filters/delicious.xml", "<?xml version=\"1.0\" encoding=\"UTF-8\"?><filter name=\"foobar\" fullData=\"false\"><rule type=\"actor\">bazqux</rule></filter>") 
+  @publisher.should_receive(:put).with("/gnip/publishers/delicious/filters/foobar.xml", "<?xml version=\"1.0\" encoding=\"UTF-8\"?><filter name=\"foobar\" fullData=\"false\"><rule type=\"actor\">bazqux</rule></filter>")
   @filter = @publisher.update_filter!(name, :actor => "bazqux")
 end
 

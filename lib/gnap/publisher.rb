@@ -27,7 +27,7 @@ module Gnap
 
     def update_filter! name, rules
       data = Filter.new(@config, @publisher, name, rules).to_xml
-      put(path + UPDATE_FILTER_PATH % [@publisher, name], data)
+      put(path + UPDATE_FILTER_PATH % name, data)
       filter(name)
     end
 
