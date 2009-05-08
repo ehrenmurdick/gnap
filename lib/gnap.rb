@@ -12,8 +12,22 @@ require File.dirname(__FILE__) + "/gnap/notification"
 require File.dirname(__FILE__) + "/gnap/filter"
 
 module Gnap
-  def self.new username, password
-    Connection.new({:username => username, :password => password})
+  def self.new username = nil, password = nil
+    if defined?(Configuration)
+      Connection.new(Configuration)
+    elsif username.present? && password.present?
+      Connection.new({:username => username, :password => password})
+    else
+      raise ArgumentError, "No configuration defined, please pass in username and password"
+    end
+  end
+
+  class << self
+    class_eval do
+      define_method(:configure) do |hash|
+        ::Gnap::Configuration = hash
+      end
+    end
   end
 end
 
