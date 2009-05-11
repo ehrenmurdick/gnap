@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name = "gnap"
   s.author = "Ehren Murdick"
   s.email = "ehren.murdick@gmail.com"
-  s.version = "0.4.4"
+  s.version = "0.4.5"
   s.files = Dir.glob("lib/**/*.rb")
   s.require_paths = ["lib"]
   s.summary = "Gnap is a interface to the Gnip api"
