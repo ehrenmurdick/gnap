@@ -1,4 +1,4 @@
-require 'activesupport'
+require 'activesupport' unless defined?(ActiveSupport)
 require 'base64'
 require 'net/http'
 require 'net/https'

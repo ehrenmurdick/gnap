@@ -4,10 +4,8 @@ module Gnap
       @data = data
     end
 
-    %w{url regardingURL destinationURL}.each do |meta|
-      define_method(meta.underscore) do 
-        (@data / meta.downcase).inner_text
-      end
+    def method_missing msg, *args, &block
+      (@data / msg.to_s.camelcase.downcase).inner_text
     end
   end
 end
